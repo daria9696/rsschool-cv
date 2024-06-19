@@ -16,3 +16,43 @@
 **GitHub:** [daria9696](https://github.com/daria9696)
 
 
+## About Myself:
+At the moment, I am independently acquiring basic knowledge in web page layout, solving logical problems and writing practice code.
+
+
+ My goal is to contribute to innovative projects and continuously grow as a software developer. Although I am at the beginning of my career, my dedication to learning and exploring new technologies has equipped me with a solid foundation in coding and problem-solving.
+
+
+ Despite not having professional experience yet, I have engaged in various personal projects and online courses to hone my skills. I am eager to apply my knowledge in a practical setting and contribute to a dynamic team.
+
+
+ I am confident that my enthusiasm for programming and my drive to excel will make me a valuable addition to your team.
+
+
+ ## Skills
+ *HTML 5
+ *CSS/SASS
+ *Python (Foundations, OOP, pandas)
+ *JavaScript (basics)
+ *MySQL/PostgreSQL (DDL, DML, DCL, TCL)
+ *SQL for Analysis (Window Function/ Window Frames: PL/pgSQL)
+ *Git/GitHub
+ *Methodologies of work (SCRUM, Kanban)
+ *VS Code, IntelliJ IDEA
+ *Dbeaver
+ *Pycharm
+ *Jupiter
+
+
+## Code Examples
+
+
+
+## Education
+
+
+## Languages
+*English (Advanced, according to [EPAM English test result](https://examinator.epam.com/passing/attendances/791480))
+*Russian (Native)
+*Ukranian (Intermediate)
+*Polish (Advanced)
