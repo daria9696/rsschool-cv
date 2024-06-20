@@ -30,22 +30,46 @@ At the moment, I am independently acquiring basic knowledge in web page layout, 
 
 
  ## Skills
- *HTML 5
- *CSS/SASS
- *Python (Foundations, OOP, pandas)
- *JavaScript (basics)
- *MySQL/PostgreSQL (DDL, DML, DCL, TCL)
- *SQL for Analysis (Window Function/ Window Frames: PL/pgSQL)
- *Git/GitHub
- *Methodologies of work (SCRUM, Kanban)
- *VS Code, IntelliJ IDEA
- *Dbeaver
- *Pycharm
- *Jupiter
+ * HTML 5
+
+
+ * CSS/SASS
+
+
+ * Python (Foundations, OOP, pandas)
+
+
+ * JavaScript (basics)
+
+
+ * MySQL/PostgreSQL (DDL, DML, DCL, TCL)
+
+
+ * SQL for Analysis (Window Function/ Window Frames: PL/pgSQL)
+
+
+ * Git/GitHub
+
+
+ * Methodologies of work (SCRUM, Kanban)
+
+
+ * VS Code, IntelliJ IDEA
+
+
+ * Dbeaver
+
+
+ * Pycharm
+
+
+ * Jupiter
+
+
 
 
 ## Code Examples
-<span style="color:grey">SELECT c.name, sum(amount) AS total_income
+<span style="color:gray;">SELECT c.name, sum(amount) AS total_income
 FROM payment p --payment, because we want To know total amount per rental, so we join the payment and rental tables
     JOIN rental r ON r.rental_id = p.rental_id 
         JOIN inventory i ON r.inventory_id = i.inventory_id --inventory, film_category anf film tables just conjuctive tables
@@ -60,24 +84,35 @@ FROM payment p --payment, because we want To know total amount per rental, so we
                                                                         WHERE cou.country = 'United States')
 GROUP BY c.name --group by name of category to know total amount per each category 
 ORDER BY total_income DESC --sorting by sum of income in descending order 
-FETCH FIRST 3 ROWS WITH TIES  --here we want TO find top 3 category-movies. I chose "fetch first n rows with ties" IN CASE IF we have additional category film WITH the same total_income AS we chosen  *grey* text</span>.
-
-
+FETCH FIRST 3 ROWS WITH TIES  --here we want TO find top 3 category-movies. I chose "fetch first n rows with ties" IN CASE IF we have additional category film WITH the same total_income AS we chosen</span>
 
 ## Education
--**The University of Environment and Life Sciences** (MSc - Bioinformatics) 2019-2022
+* **The University of Environment and Life Sciences** (MSc - Bioinformatics) 2019-2022
 
 
--**The University of Wroclaw** (BSc - Biotechnology) 2016-2019
+* **The University of Wroclaw** (BSc - Biotechnology) 2016-2019
+
+## Courses
+* **HTML/CSS:** Udemy
+
+
+* **PostgreSQL:** epam
+
+
+* **Python:** epam
+
+
+* **JavaScript:** in progress (Udemy, RS-School)
+
 
 ## Languages
--**English:** (Advanced, according to [EPAM English test result](https://examinator.epam.com/passing/attendances/791480))
+* **English:** (Advanced, according to [EPAM English test result](https://examinator.epam.com/passing/attendances/791480))
 
 
--**Russian:** (Native)
+* **Russian:** (Native)
 
 
--**Ukranian:** (Intermediate)
+* **Ukranian:** (Intermediate)
 
 
--**Polish:** (Advanced)
+* **Polish:** (Advanced)
