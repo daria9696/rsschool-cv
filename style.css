@@ -1,0 +1,203 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#ffeef1;
+    font-family: Arial, sans-serif;
+    
+}
+h3 {
+    color:#444147;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    background-color:#ffffff;
+    
+}
+
+.cv-header {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    padding: 1em;
+    justify-content: space-between;
+    position: relative;
+}
+
+.fast-navigation {
+    height: 20%;
+    margin: 30px;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    background-color: #ffdde3;
+}
+
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav li a {
+    color: #444147;
+    font-weight: bold;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    /* background-color: #f2ddff; */
+
+}
+.photo img {
+    width: 150px;
+    height: 200px;
+}
+
+.middle-content {
+    display: flex;
+    flex-direction: column;
+    padding: auto;
+}
+
+h1 {
+    color: #444147;
+}
+
+.job {
+    display: flex;
+    justify-content: center;
+}
+
+.job h2 {
+    padding: 0;
+    margin: 0;
+    color: #444147;
+}
+
+.contact-list li {
+    padding: 5px;
+    list-style-type: none;
+}
+.contact-list img {
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+.contact-list li p {
+    display: inline;
+    vertical-align: middle;
+}
+
+p {
+    line-height: 20px;
+}
+
+.aside {
+    width: 50%;
+    height: auto;
+    padding: 20px;
+    background-color: #ffdde3;
+}
+
+.aside h3 {
+    padding: 5px;
+    text-align: center;
+}
+
+
+#about-me p {
+    text-indent: 20px;
+}
+
+
+#skills li, #languages li, #courses li {
+    padding: 5px;
+}
+
+#skills span, #languages span, #courses span {
+    font-weight: bold;
+    color: #444147;
+}
+#languages a {
+    color: #444147;
+}
+
+.main-info {
+    display: flex;
+}
+
+.main {
+    width: 50%;
+    padding: 20px;
+}
+.main h3 {
+    text-align: center;
+}
+
+
+table, th, td {
+    border: 2px solid #444147;
+}
+
+
+td {
+    padding: 10px;
+}
+
+pre {
+    font-family: monospace;
+    background-color: #f5f5f5;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0;
+    font-weight: bold;
+    color: #444147;
+    background-color: #ffbbc7;
+}
+
+footer img{
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+footer a {
+    color: #444147;
+}
+
+.rsschool a img {
+    width: 70px;
+    height: 50px;
+
+}
+
+.github {
+    padding: 20px 0 20px;
+}
