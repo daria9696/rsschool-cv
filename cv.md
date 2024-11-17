@@ -85,3 +85,7 @@ print(multiply)
 - **English:** (Advanced, according to [EPAM English test result](https://examinator.epam.com/passing/attendances/791480))
 
 - **Russian:** (Native)
+
+- **Ukranian:** (Intermediate)
+
+- **Polish:** (Advanced)
